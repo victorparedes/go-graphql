@@ -5,10 +5,10 @@ Ejemplo practico de una implementacion de GraphQL con Go.
 Desrrollado con Go v1.17.5
 
 ```console
-git clone https://github.com/victorparedes/nodejs-graphql.git
-cd nodejs-graphql
-npm install
-node index.js 
+git clone https://github.com/victorparedes/go-graphql.git
+cd go-graphql
+go get
+go run main.go 
 ```
 Luego accedemos a http://localhost:5000/graphql
 <br/><br/>
